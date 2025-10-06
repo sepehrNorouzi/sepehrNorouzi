@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a relationship manager app.<br>🌱 I’m currently learning DDD.<br>💬 Ask me about Backend design patterns.<br>
+🔭 I’m currently working on C++ integration with django.<br>🌱 I’m currently learning DDD.<br>💬 Ask me about Backend design patterns.<br>
 
 
 ## 🌐 Socials:
