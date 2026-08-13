@@ -1,21 +1,124 @@
-# 💫 About Me:
-🔭 I’m currently working on C++ integration with django.<br>🌱 I’m currently learning DDD.<br>💬 Ask me about Backend design patterns.<br>
+# Hi, I'm Sepehr 👋
 
+### Senior Backend Engineer · Python · Distributed Systems · AI/RAG
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sepehr-norouzi-dev/)
+I'm a **Senior Software Engineer focused on backend engineering**, with 5+ years of experience building and scaling production systems with Python.
 
-# 💻 Tech Stack:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sepehrNorouzi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sepehrNorouzi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrNorouzi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy solving problems around **system architecture, distributed systems, high-performance APIs, real-time communication, databases, and AI-powered applications**.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Currently, I'm working on backend systems and exploring the intersection of **backend engineering and AI**, including building and deploying **RAG and LLM-powered applications**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sepehrNorouzi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Work On
+
+* 🐍 **Backend Engineering** — Python, Django, FastAPI, REST APIs
+* ⚡ **Distributed Systems** — Redis, Celery, RabbitMQ, real-time systems
+* 🗄️ **Data & Databases** — PostgreSQL, MongoDB, Redis, ClickHouse, PostGIS
+* 🤖 **AI Engineering** — RAG, embeddings, vector databases, LLM applications
+* 🎮 **Real-Time Systems** — WebSockets, Socket.IO, game-server architecture
+* 🐳 **Infrastructure** — Docker, CI/CD, Linux, production systems
+* 🏗️ **Software Architecture** — system design, performance optimization, backend architecture
+
+---
+
+## 🧠 Currently Exploring
+
+* Retrieval-Augmented Generation (RAG)
+* LLM-powered backend systems
+* Vector search and semantic retrieval
+* Domain-Driven Design (DDD)
+* Distributed system architecture
+* High-performance Python services
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=for-the-badge\&logo=django\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+
+### Databases & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge\&logo=clickhouse\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### AI / Data
+
+![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-5E35B1?style=for-the-badge)
+
+### Infrastructure & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+---
+
+## 📌 Featured Work
+
+### 🤖 RAG System
+
+Built and published a **Retrieval-Augmented Generation system** focused on document ingestion, chunking, embeddings, vector search, and LLM-powered retrieval.
+
+**Focus areas:**
+
+`Document Processing` · `Embeddings` · `Vector Search` · `Qdrant` · `Ollama` · `LLMs` · `Async Python`
+
+---
+
+### ⚡ High-Performance Backend Systems
+
+I've worked on production backend systems serving **50K+ daily active users**, including high-concurrency matchmaking, real-time communication, API optimization, and data-intensive services.
+
+Some of the systems I've worked on include:
+
+* Python + Redis matchmaking handling **10K concurrent match requests**
+* APIs optimized from **2+ seconds to under 50ms**
+* Real-time systems using Redis and Socket.IO
+* ClickHouse-based high-volume log analytics
+* PostgreSQL/PostGIS geospatial systems
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sepehrNorouzi&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrNorouzi&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sepehrNorouzi&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sepehr-norouzi-dev/)
+
+---
+
+### 💬 Let's Talk About
+
+**Backend Architecture · Distributed Systems · Python · Django · FastAPI · AI/RAG · System Design · Performance Engineering**
+
+---
+
+<p align="center">
+  <i>Build systems that scale. Keep them simple. Ship them.</i>
+</p>
